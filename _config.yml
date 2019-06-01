@@ -80,3 +80,4 @@ theme: hexo-theme-next
 deploy:
   type: git
   repo: https://github.com/StormWyrm/StormWyrm.github.io.git
+  branch: master
